@@ -4,3 +4,4 @@ A simple program that is designed for users to register, add, and remove appoint
 # Future Improvements
 - A way to store user information locally so that registration is not required everytime on each run of the program
 - GUI implementation with Swing
+- Make the code into a full execubatle, so from java -> jar -> exe file to help practice application development
